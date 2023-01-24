@@ -176,7 +176,7 @@
     "mnemonist": "^0.38.0",
     "ngraph.graph": "^19.1.0",
     "parse-duration": "^1.0.0",
-    "pretender": "^3.2.0",
+    "pretender": "^3.4.7",
     "prettier": "^2.2.1",
     "pretty-ms": "^7.0.1",
     "qunit": "^2.13.0",
