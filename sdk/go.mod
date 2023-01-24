@@ -5,7 +5,7 @@ go 1.18
 require (
 	github.com/hashicorp/go-cleanhttp v0.5.1
 	github.com/hashicorp/go-hclog v0.12.0
-	github.com/hashicorp/go-uuid v1.0.1
+	github.com/hashicorp/go-uuid v1.0.3
 	github.com/hashicorp/go-version v1.2.1
 	github.com/pkg/errors v0.8.1
 	github.com/stretchr/testify v1.4.0
